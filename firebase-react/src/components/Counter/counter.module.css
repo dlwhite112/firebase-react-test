@@ -1,0 +1,16 @@
+*{
+    margin: 1em auto;
+
+}
+.square {
+    margin: 5px;
+    padding: 3em;
+    border-radius: 20px;
+    transition-duration: 2s;
+    color: aliceblue;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
